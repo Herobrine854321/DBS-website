@@ -25,7 +25,7 @@ DBS Network Official Website
     <section id="home" class="hero">
         <h1>Welcome to DEAD BRAIN SMP</h1>
         <p>Your Ultimate Minecraft SMP Experience!</p>
-        <a href="server-ip-link" class="join-button">Join Now!</a>
+        <a href="DbsNetwork.aternos.me:42094" class="join-button">Join Now!</a>
     </section>
     <section id="announcements">
         <h2>Announcements</h2>
