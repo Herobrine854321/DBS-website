@@ -9,7 +9,6 @@ DBS Network Official Website
 </head>
 <body>
     <header>
-        <div class=""</div>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
