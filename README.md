@@ -22,13 +22,11 @@ DBS Network Official Website
             </ul>
         </nav>
     </header>
-
     <section id="home" class="hero">
         <h1>Welcome to [Server Name]</h1>
         <p>Your Ultimate Minecraft SMP Experience!</p>
         <a href="server-ip-link" class="join-button">Join Now!</a>
     </section>
-
     <section id="announcements">
         <h2>Announcements</h2>
         <ul>
@@ -36,7 +34,6 @@ DBS Network Official Website
             <li><strong>[Date]</strong> Server Maintenance - Scheduled for [Date/Time].</li>
         </ul>
     </section>
-
     <section id="events">
         <h2>Upcoming Events</h2>
         <ul>
@@ -44,24 +41,18 @@ DBS Network Official Website
             <li><strong>PvP Tournament</strong> - [Date/Time] - Test your skills against other players!</li>
         </ul>
     </section>
-
     <section id="ranks">
         <h2>Server Ranks</h2>
         <table>
             <tr>
-                <th>Rank Name</th>
-                <th>Permissions/Benefits</th>
-                <th>How to Achieve</th>
+                <th>VIP</th>
+                <th>Fly,E-chest,Extra set home</th>
+                <th>180 inr/20 dollars</th>
             </tr>
             <tr>
                 <td>Member</td>
                 <td>Basic access to the server.</td>
                 <td>Automatic</td>
-            </tr>
-            <tr>
-                <td>VIP</td>
-                <td>Access to special areas and commands.</td>
-                <td>By donating</td>
             </tr>
             <tr>
                 <td>Admin</td>
@@ -70,13 +61,11 @@ DBS Network Official Website
             </tr>
         </table>
     </section>
-
     <section id="discord">
         <h2>Join Our Discord</h2>
         <p>Stay connected with our community! Join our Discord for announcements, discussions, and more.</p>
         <a href="discord-invite-link" class="discord-button">Join Our Discord</a>
     </section>
-
     <footer>
         <p>&copy; 2023 [Server Name]. All rights reserved.</p>
         <p>Follow us on social media: [Social Media Links]</p>
