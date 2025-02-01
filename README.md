@@ -1,6 +1,6 @@
 # DBS-website-
 DBS Network Official Website 
-<!DOCTYPE html>
+<!DOCTYPEhtml>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
