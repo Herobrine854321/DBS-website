@@ -25,7 +25,7 @@ DBS Network Official Website
     <section id="home" class="hero">
         <h1>Welcome to DEAD BRAIN SMP</h1>
         <p>Your Ultimate Minecraft SMP Experience!</p>
-        <a href="DbsNetwork.aternos.me:42094" class="join-button">Join Now!</a>
+        <a href="DbsNetwork.aternos" class="join-button">Join Now!</a>
     </section>
     <section id="announcements">
         <h2>Announcements</h2>
@@ -67,9 +67,12 @@ DBS Network Official Website
         <p>Stay connected with our community! Join our Discord for announcements, discussions, and more.</p>
         <a href="https://discord.gg/w4DSYtrhcJ" class="discord-button">Join Our Discord</a>
     </section>
+    <section id="contact">
+        <h2>Our social Connects:</h2>
+        <p>Youtube connects:</p>
+        <a href="https://www.youtube.com/@Deadbrainsmp8" class="connect-button">Subscribe to Youtube</a>
     <footer>
         <p>&copy; 2025 [DEAD BRAIN SMP NETWORKS]. All rights reserved.</p>
-        <p>Follow us on social media: https://www.youtube.com/@Deadbrainsmp8</p>
     </footer>
 </body>
 </html>
