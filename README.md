@@ -5,7 +5,7 @@ DBS Network Official Website
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Server Name] - Minecraft SMP</title>
+    <title>DBS SMP - DEAD BRAIN SMP </title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -23,15 +23,15 @@ DBS Network Official Website
         </nav>
     </header>
     <section id="home" class="hero">
-        <h1>Welcome to [Server Name]</h1>
+        <h1>Welcome to DEAD BRAIN SMP</h1>
         <p>Your Ultimate Minecraft SMP Experience!</p>
         <a href="server-ip-link" class="join-button">Join Now!</a>
     </section>
     <section id="announcements">
         <h2>Announcements</h2>
         <ul>
-            <li><strong>[Date]</strong> New Update Released! - Check out the new features in our latest update.</li>
-            <li><strong>[Date]</strong> Server Maintenance - Scheduled for [Date/Time].</li>
+            <li><strong></strong> New Update Released! - Check out the new features in our latest update.</li>
+            <li><strong></strong> Server Maintenance - Scheduled for [Date/Time].</li>
         </ul>
     </section>
     <section id="events">
@@ -47,7 +47,7 @@ DBS Network Official Website
             <tr>
                 <th>VIP</th>
                 <th>Fly,E-chest,Extra set home</th>
-                <th>180 inr/20 dollars</th>
+                <th>100 inr/20 dollars</th>
             </tr>
             <tr>
                 <td>Member</td>
@@ -64,7 +64,7 @@ DBS Network Official Website
     <section id="discord">
         <h2>Join Our Discord</h2>
         <p>Stay connected with our community! Join our Discord for announcements, discussions, and more.</p>
-        <a href="discord-invite-link" class="discord-button">Join Our Discord</a>
+        <a href="https://discord.gg/w4DSYtrhcJ" class="discord-button">Join Our Discord</a>
     </section>
     <footer>
         <p>&copy; 2023 [Server Name]. All rights reserved.</p>
