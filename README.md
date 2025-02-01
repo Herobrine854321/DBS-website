@@ -9,8 +9,7 @@ DBS Network Official Website
 </head>
 <body>
     <header>
-        <div class="![image](https://github.com/user-attachments/assets/3ef4ac7f-583f-4fce-acfa-2d5b6abe068d)
-"</div>
+        <div class=""</div>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
