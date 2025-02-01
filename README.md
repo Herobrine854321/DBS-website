@@ -71,6 +71,7 @@ DBS Network Official Website
         <h2>Our social Connects:</h2>
         <p>Youtube connects:</p>
         <a href="https://www.youtube.com/@Deadbrainsmp8" class="connect-button">Subscribe to Youtube</a>
+    </section>
     <footer>
         <p>&copy; 2025 [DEAD BRAIN SMP NETWORKS]. All rights reserved.</p>
     </footer>
