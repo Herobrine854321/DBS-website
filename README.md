@@ -5,12 +5,12 @@ DBS Network Official Website
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DBS SMP - DEAD BRAIN SMP </title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <div class="logo">[Server Logo]</div>
+        <div class="![image](https://github.com/user-attachments/assets/3ef4ac7f-583f-4fce-acfa-2d5b6abe068d)
+"</div>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
@@ -68,7 +68,7 @@ DBS Network Official Website
         <a href="https://discord.gg/w4DSYtrhcJ" class="discord-button">Join Our Discord</a>
     </section>
     <footer>
-        <p>&copy; 2023 [DEAD BRAIN SMP NETWORKS]. All rights reserved.</p>
+        <p>&copy; 2025 [DEAD BRAIN SMP NETWORKS]. All rights reserved.</p>
         <p>Follow us on social media: https://www.youtube.com/@Deadbrainsmp8</p>
     </footer>
 </body>
