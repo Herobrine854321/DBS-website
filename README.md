@@ -32,6 +32,7 @@ DBS Network Official Website
         <ul>
             <li><strong></strong> New Update Released! - Check out the new features in our latest update.</li>
             <li><strong></strong> Server Maintenance - Scheduled for [Date/Time].</li>
+            <li><strong></strong> Server Announcements to be coming.</li>
         </ul>
     </section>
     <section id="events">
@@ -45,9 +46,9 @@ DBS Network Official Website
         <h2>Server Ranks</h2>
         <table>
             <tr>
-                <th>VIP</th>
-                <th>Fly,E-chest,Extra set home</th>
-                <th>100 inr/20 dollars</th>
+                <td>VIP</td>
+                <td>Fly,E-chest,Extra set home.</td>
+                <td>100 inr/1.5 dollars</td>
             </tr>
             <tr>
                 <td>Member</td>
@@ -56,7 +57,7 @@ DBS Network Official Website
             </tr>
             <tr>
                 <td>Admin</td>
-                <td>Full control over the server.</td>
+                <td>Access to some important cmds.</td>
                 <td>By application</td>
             </tr>
         </table>
@@ -67,8 +68,8 @@ DBS Network Official Website
         <a href="https://discord.gg/w4DSYtrhcJ" class="discord-button">Join Our Discord</a>
     </section>
     <footer>
-        <p>&copy; 2023 [Server Name]. All rights reserved.</p>
-        <p>Follow us on social media: [Social Media Links]</p>
+        <p>&copy; 2023 [DEAD BRAIN SMP NETWORKS]. All rights reserved.</p>
+        <p>Follow us on social media: https://www.youtube.com/@Deadbrainsmp8</p>
     </footer>
 </body>
 </html>
